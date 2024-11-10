@@ -8,7 +8,7 @@ version = "5.4.1"
 description = "RIFE function for VapourSynth"
 readme = "README.md"
 requires-python = ">=3.10"
-license-files = { paths = ["LICENSE"] }
+license-files = ["LICENSE"]
 authors = [
   { name = "HolyWu", email = "holywu@gmail.com" },
 ]
